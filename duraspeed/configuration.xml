@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+	<PlatformWhitelist>
+	  <App1>com.tencent.mm</App1>
+	  <App2>com.tencent.mobileqq</App2>
+	  <App3>com.coloros.screenrecorder</App3>
+	  <App4>screenrecorder</App4>
+	  <App5>com.coloros.alarmclock</App5>
+	  <App6>com.coloros.backuprestore</App6>
+	  <App7>com.coloros.backuprestore.remoteservice</App7>
+	  <App8>com.coloros.screenshot</App8>
+	  <App9>com.android.keychain</App9>
+	  <App10>com.coloros.safesdkproxy</App10>
+	  <App11>com.coloros.filemanager</App11>
+	  <App12>com.coloros.gallery3d</App12>
+	  <App13>com.coloros.safecenter</App13>
+	  <App14>com.coloros.oshare</App14>
+	  <App15>com.coloros.blacklist</App15>
+	  <App16>com.coloros.healthcheck</App16>
+	  <App17>com.android.incallui</App17>
+	  <App18>com.nearme.ocloud</App18>
+	  <App19>com.oppo.ota</App19>
+	  <App20>com.coloros.cloud</App20>
+	  <App21>com.coloros.oppoguardelf</App21>
+	  <App22>com.oppo.qetest</App22>
+	  <App23>com.android.cellbroadcastreceiver</App23>
+	  <App24>com.coloros.smartdrive</App24>
+	  <App25>com.oppo.autotest.performance</App25>
+	  <App26>com.coloros.wirelesssettings</App26>
+	  <App27>com.coloros.oppopods</App27>
+	  <App28>com.oppo.autotest.phenix</App28>
+	  <App29>com.oppo.autotest.performancetesttool</App29>
+	  <App30>com.oppo.autotest.qemonitor</App30>
+	  <App31>com.oppo.autotest.qetest</App31>
+	  <App32>com.oppo.qemonitor</App32>
+	  <App33>com.oppo.autotest.phenixcamerapressuretool</App33>
+	  <App34>com.cleanmaster.sdk</App34>
+	  <App35>com.oppo.customize.service</App35>
+	  <App36>com.nearme.sync</App36>
+	  <App37>com.oppo.videocallfloat</App37>
+	  <App38>com.coloros.translate</App38>
+	  <App39>com.coloros.colorfilestand</App39>
+	  <App40>com.coloros.personalassistant</App40>
+	  <App41>com.coloros.usbselection</App41>
+	  <!--<App42>****</App42>-->
+	  <!--<App43>****</App43>-->
+	</PlatformWhitelist>
+	<CpuThreshold>85</CpuThreshold> <!-- 20~100 -->
+	<CpuTarget>70</CpuTarget> <!-- 0~100 -->
+	<MemoryTrigger>false</MemoryTrigger>
+	<ForceStop>false</ForceStop>
+</configuration>
